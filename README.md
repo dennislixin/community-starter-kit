@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a bot app that welcome first time commiter or first time issue creater.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* send welcome message for the first time commit
+* send welcome message for the first to create an issue
 
 ## Getting started
 
